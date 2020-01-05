@@ -3,4 +3,10 @@ Apache2 log parser. Shows most viewed requests and compares top ten IP addresses
 
 ## Usage
     chmod +x apachelist.sh
-    ./apachelist.sh***
+    
+    then
+    
+    ./apachelist.sh
+    
+    
+ 
